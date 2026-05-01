@@ -55,10 +55,12 @@ appS1/
 
 ### Sur Raspberry Pi (Linux)
 ```bash
-git clone https://github.com/viklib/rasberry_pi_ciel.git
-cd rasberry_pi_ciel
+git clone https://github.com/Raccoon-0verflow/projet-qt.git
+cd projet-qt
 git checkout Semaine_1
-cmake .
+
+mkdir -p build && cd build
+cmake ..
 make
 ./appS1
 ```
