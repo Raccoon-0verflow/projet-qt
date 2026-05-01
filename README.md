@@ -454,7 +454,7 @@ gpioget gpiochip0 22   # Lire l'état de la broche GPIO22
 
 ```bash
 cd ~
-git clone https://github.com/viklib/rasberry_pi_ciel.git
+git clone https://github.com/Raccoon-0verflow/projet-qt.git
 cd rasberry_pi_ciel
 ```
 
