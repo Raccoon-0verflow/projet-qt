@@ -455,7 +455,7 @@ gpioget gpiochip0 22   # Lire l'état de la broche GPIO22
 ```bash
 cd ~
 git clone https://github.com/Raccoon-0verflow/projet-qt.git
-cd rasberry_pi_ciel
+cd projet-qt
 ```
 
 ### Voir les branches disponibles
@@ -479,7 +479,7 @@ git pull origin Semaine_6   # Remplacer par la branche souhaitée
 ### Compiler — méthode universelle
 
 ```bash
-cd ~/rasberry_pi_ciel
+cd ~/projet-qt
 mkdir -p build && cd build
 cmake ..
 make
@@ -589,7 +589,7 @@ nc -l -p 12345
 
 **Trouver le fichier CSV :**
 ```bash
-ls ~/rasberry_pi_ciel/build/data_*.csv
+ls ~/projet-qt/build/data_*.csv
 ```
 
 ---
@@ -707,7 +707,7 @@ Si absent :
 ### Recompiler après modification du code
 
 ```bash
-cd ~/rasberry_pi_ciel/build
+cd ~/projet-qt/build
 make
 sudo ./appS6_v2
 ```
