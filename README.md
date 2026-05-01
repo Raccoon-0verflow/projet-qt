@@ -100,7 +100,7 @@ if (prenom.isEmpty()) {
 
 ### Sur Raspberry Pi (Linux)
 ```bash
-git clone https://github.com/viklib/rasberry_pi_ciel.git
+git clone https://github.com/Raccoon-0verflow/projet-qt.git
 cd rasberry_pi_ciel
 git checkout Semaine_2
 cmake .
