@@ -101,9 +101,6 @@ Le shield est une carte PCB conçue et soudée en cours. Elle se connecte direct
 
 ### Composants du shield
 > [![Voir la documentation](https://img.shields.io/badge/Consulter-Documentation_HTML-blue?style=for-the-badge&logo=github)](https://raccoon-0verflow.github.io/projet-qt/)
-
-### 🛠️ Composants du shield
-> **[Cliquez ici pour ouvrir la documentation interactive](https://raccoon-0verflow.github.io/projet-qt/)** 👈
 > (À consulter impérativement avant utilisation)
 
 
