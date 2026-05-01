@@ -136,7 +136,7 @@ Le code est développé sous **Windows** avec Qt Creator et déployé sur **Rasp
 ### Sur Raspberry Pi (Linux)
 ```bash
 git clone https://github.com/Raccoon-0verflow/projet-qt.git
-cd rasberry_pi_ciel
+cd projet-qt
 git checkout Semaine_4
 cmake .
 make
